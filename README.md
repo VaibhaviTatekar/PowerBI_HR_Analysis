@@ -1,4 +1,4 @@
-# PowerBI_HR_Analysis
+# PowerBI_HR_Attendance Analysis
 
 Objective:
 The primary goal of this project is to analyze and visualize HR-related data to gain insights into workforce dynamics, employee performance, and other critical HR metrics. The PowerBI dashboard serves as a powerful tool for presenting these insights in a visually appealing and accessible manner.
