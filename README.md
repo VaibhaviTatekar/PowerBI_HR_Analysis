@@ -5,6 +5,6 @@ The primary goal of this project is to analyze and visualize HR-related data to 
 
 Leveraging PowerBI's robust capabilities, the dashboard was designed to showcase key metrics such as overall attendance rates, employee punctuality, and absenteeism trends over specific time periods. The integration of HR data allowed for the identification of patterns and correlations, aiding in the assessment of workforce attendance efficiency.
 
-Project Link: https://www.novypro.com/project/hr-attendance-analysis
+Project Link: https://app.powerbi.com/view?r=eyJrIjoiZjdjOGY4MTQtMDNiYy00ZDkyLWIxMGYtMDU0MmU4MjA2YmEyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 *This project is completely guided.*
